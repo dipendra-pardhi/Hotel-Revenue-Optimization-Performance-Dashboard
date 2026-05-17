@@ -10,6 +10,17 @@ The dashboard is built using **Power BI**, with data processed through **Python*
 
 ---
 
+## 📊 Dashboard Screenshots
+
+### 🏠 Home Dashboard
+![Home Dashboard](assets/home-dashboard.png)
+
+### 💰 Revenue Analysis
+![Revenue Analysis](assets/revenue-dashboard.png)
+
+### 📈 Executive Overview
+![Executive Overview](assets/executive-overview.png)
+
 ## 🚀 Tools & Technologies Used
 
 * 🐍 Python (Pandas) – Data Cleaning
