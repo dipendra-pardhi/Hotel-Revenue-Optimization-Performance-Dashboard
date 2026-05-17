@@ -16,7 +16,7 @@ The dashboard is built using **Power BI**, with data processed through **Python*
 ![Home Dashboard](https://github.com/dipendra-pardhi/Hotel-Revenue-Optimization-Performance-Dashboard/blob/main/Dashbord%20Image/Screenshot%202026-04-14%20230940.png)
 
 ### 📈 Executive Overview
-![Executive Overview](assets/executive-overview.png)
+![Executive Overview](https://github.com/dipendra-pardhi/Hotel-Revenue-Optimization-Performance-Dashboard/blob/main/Dashbord%20Image/Screenshot%202026-04-14%20231001.png)
 
 ### 💰 Revenue Analysis
 ![Revenue Analysis](assets/revenue-dashboard.png)
